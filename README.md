@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on eCommerce website with a booking systemm
+- 🔭 I’m currently working on eCommerce website with a booking system
 - 🌱 I’m currently learning cloud technologies and service modules.
 - 👯 I’m looking to collaborate on open-source and community driven projects
 - 💬 Ask me about web development using Javascript Frameworks and Django
